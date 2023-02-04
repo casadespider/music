@@ -108,7 +108,8 @@ while xmlline:
          # process the line
          processElement(xmlline)
 
-         # add json line      
+         # add json line 
+         # and another line to add     
 
    # read next line
    xmlline = xmlfile.readline().strip()
